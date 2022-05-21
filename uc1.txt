@@ -2,10 +2,10 @@ package practice.problems.java;
 
 import java.util.Objects;
 
-public class uc1 {
+public class UC1 {
     String employee;
 
-    public uc1() {
+    public UC1() {
 
     }
 
@@ -20,7 +20,7 @@ public class uc1 {
     }
 
       public static void main(String[] args) {
-          uc1 employee =new uc1();
+          UC1 employee =new UC1();
           employee.attendence();
         }
 }
